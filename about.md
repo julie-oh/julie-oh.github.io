@@ -1,7 +1,8 @@
 ---
+title: About
 layout: page
-title : About
-permalink: /about/
+permalink: "/about/"
+order: 1
 ---
 
 <h2>Gravity</h2>
@@ -144,4 +145,3 @@ tagline: "It's all about perception."
   </div>
 </p>
 </div>
-
