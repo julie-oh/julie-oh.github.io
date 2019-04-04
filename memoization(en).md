@@ -2,6 +2,6 @@
 title: MEMOIZATION (EN)
 layout: archive
 category: memoization(en)
-order: 3
+order: 2
 ---
 

@@ -2,6 +2,6 @@
 title: MEMOIZATION (KR)
 category: memoization(kr)
 layout: archive
-order: 2
+order: 1
 ---
 
