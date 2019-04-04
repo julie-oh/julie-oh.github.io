@@ -1,9 +1,10 @@
 ---
+title: example
 layout: post
-title:  "Welcome to Gravity!"
-date:   2016-03-30 19:45:31 +0530
+date: '2016-03-30 23:15:31 +0900'
 categories: jekyll update
 ---
+
 Gravity is an unopinionated theme for Jekyll, the awesome static site generator.
 
 Some General Instructions for Jekyll
