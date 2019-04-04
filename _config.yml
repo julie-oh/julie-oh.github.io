@@ -9,8 +9,8 @@
 title: Gravity
 email: ohyeonjulie@gmail.com
 description: Julie's Tech Blog
-baseurl: "/memoization(kr)" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 #linkedin_username: play_oh
 github_username:  julie-oh
 paginate: 5
