@@ -1,7 +1,7 @@
 ---
 title: Binary Numbers
 layout: post
-dete: '2019-04-04 00:00:00'
+dete: '2019-04-11 00:00:00'
 categories:
 - memoization(kr)
 - science
