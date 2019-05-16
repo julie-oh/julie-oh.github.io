@@ -7,17 +7,16 @@ auth: Julie-Oh
 
 # Array List란?
 
---
+----------
 ![](https://cdn-images-1.medium.com/max/1200/0*5w9-ibvGwT1EpeH9.png)
 
 - contiguous data on memory
 - 나열 혹은 배열
 - 데이터를 줄 세워 놓은 것
 
-
 **그렇다면 왜 유용할까?**
 
---
+----------
 
 추상적인 개념으로는 사람이 정리/정렬된 것을 좋아함
 **순서가 있는 개념**을 표현하기가 쉽다
@@ -30,7 +29,7 @@ auth: Julie-Oh
 
 **random access?**
 
---
+----------
 - read
 - array 내의 어떤 임의의 데이터를 접근하는 것
 - O(1)
@@ -43,7 +42,7 @@ auth: Julie-Oh
 
 **insertion?**
 
---
+----------
     - OS 커널이 메모리의 주소를 잡아주기 때문에.. 바로 insert가 불가
     - 그래서 다른 메모리에 주소값을 할당받아서 copy해야함
     - O(n) → copy cost
@@ -51,19 +50,19 @@ auth: Julie-Oh
 
 **deletion?**
 
-- O(n) → copy cost
+----------
+    - O(n) → copy cost
     
 
 **modification?**
 
-- O(1)
-- random accsess
-
-
+----------
+    - O(1)
+    - random accsess
 
 
 # Linked List란?
---
+----------
 ![](https://cdn-images-1.medium.com/max/1600/1*LCvUw4JaCiovZWeXb5zrMw.jpeg)
 
 
@@ -76,13 +75,13 @@ auth: Julie-Oh
 
 **random access, modification?**
 
---
+----------
 - 첫번째 또는 마지막 인덱스 → O(1)
 - 미들 인덱스 → Search time이 필요하므로 O(n)
 
 **insertaion, deletion?**
 
---
+----------
 
 보편적으로 append를 할 때에는 마지막 인덱스에 추가가 됨
 Array와 달리 copy cost가 생기지 않고 메모리에 바로 할당을 받아서 마지막 노드에 새로 생긴 노드의 주소값만 추가해주면 되므로 Array보다 좀 더 편한 
