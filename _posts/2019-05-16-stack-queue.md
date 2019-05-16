@@ -3,6 +3,7 @@ title: Stack & Queue
 categories: memoization(kr)
 auth: Julie-Oh
 layout: post
+order: 3
 ---
 
 # Stack?

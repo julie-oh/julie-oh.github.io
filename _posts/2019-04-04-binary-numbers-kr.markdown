@@ -7,6 +7,7 @@ categories:
 - science
 - life
 author: Julie Oh
+order: 1
 ---
 
 ### 이진수란? 

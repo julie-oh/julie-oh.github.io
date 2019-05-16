@@ -3,6 +3,7 @@ title: 'Tree : Data Structure'
 layout: post
 categorise: memoization(kr)
 auth: Julie-Oh
+order: 5
 ---
 
 # Tree : Data Structure

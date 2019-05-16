@@ -3,6 +3,7 @@ title: Array List & Linked List
 layout: post
 categories: memoization(kr)
 auth: Julie-Oh
+order: 4
 ---
 
 # Array List란?
